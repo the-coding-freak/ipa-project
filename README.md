@@ -4,6 +4,12 @@ This repository contains the extension track for multispectral filter array (MSF
 
 It is organized for clear reproduction of the experimental pipeline, figure generation, and manuscript preparation.
 
+## Video Links 
+
+Phase 1 - https://drive.google.com/file/d/1TwJ_NXqhOJUKGLAPhHABXzF7axsOwMsf/view?usp=sharing
+
+Phase 2 - https://drive.google.com/drive/folders/16INkSiZZP2HS-PSBvwbqxzYZ0QmxHIyb?usp=sharing
+
 ## 1) Repository Goal
 
 The core goal is a fair and interpretable comparison of three sensing branches under matched conditions:
